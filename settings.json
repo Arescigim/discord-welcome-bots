@@ -1,9 +1,9 @@
 {
-  "tokens": [],
-  "channels": [],
-  "staffRoles": [],
-  "unregisterRoles": [],
+  "tokens": [MTEwNjg2MDEzMjUzMDM4OTAzMg.GR8-mM.mb2e-FZBFOEkZVHzAPyyGNwEuqTVo872yUGb-4],
+  "channels": [1098328798463807589],
+  "staffRoles": [1098328797830467659],
+  "unregisterRoles": [1098328797830467655],
 
-  "welcomeSound": "",
-  "staffSound": ""
+  "welcomeSound": "https://cdn.discordapp.com/attachments/1079877865446854788/1081687162837291120/5576-8dc0ac7c121a6c622ef747db63f52018.mp3",
+  "staffSound": "https://cdn.discordapp.com/attachments/1079877865446854788/1081687582338985994/5577-a910cb17efe94b006799ff5a91dfbb58.mp3"
 }
